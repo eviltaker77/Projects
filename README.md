@@ -18,9 +18,6 @@
 	<hr>
 	<p>
 		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
 		</p>
 		<sup>Special thanks to:</sup>
 		<br>
