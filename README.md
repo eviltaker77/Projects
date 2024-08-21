@@ -1,4 +1,4 @@
-<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
+<a>Menu Bar Spacing</a>
 
 
 <div align="center">
