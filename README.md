@@ -1,16 +1,14 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
 	<br>
 	<br>
 	<div>
-		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
 			<a href="https://sindresorhus.com/menu-bar-spacing">Cloud</a>
 			<br>
-			<sup>Customize the gap between menu bar items on macOS</sup>
+			<sup>Proyectos que Ocupan una Nube Cloud (Azure, GCP o AWS)</sup>
 		</h2>
 	</div>
 	<br>
