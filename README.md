@@ -1,41 +1,7 @@
 
-AWS   : Resource Group
-Azure : Resource Group
-DO    : Project
-
-"Proyectos Cloud Github"
-Banco          : Banco-Polyglot-AWS       (RG AWS) 
-CursosOnline   : CursosOnline-Udemy-AWS   (RG AWS)
-PrimeraArqAWS  : PrimeraArqAWS-EdTeam-AWS (RG AWS)
-Servers        : Servers-Udemy-AWS        (RG AWS)
-Ecommerce      : Ecommerce-EdTeam-DO      (Project)
-
-
-"Talleres Cloud Github"
-CursoDocker    : CursoDocker-DockerDev.NET-Udemy-AZ  (RG AZ)
-
-
 
 
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-		<sub>Check out my macOS app</sub>
-		<br>
-		<h2>
-			<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
-			<br>
-			<sup>Customize the gap between menu bar items on macOS</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<p>
