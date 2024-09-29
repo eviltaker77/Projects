@@ -1,96 +1,27 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-		<br>
-		<h2>
-			<a href="https://sindresorhus.com/menu-bar-spacing">Cloud</a>
-			<br>
-			<sup>Proyectos que Ocupan una Nube Cloud (Azure, GCP o AWS)</sup>
-		<h2>
-	<hr>
-	<p>
-		<p>
-		</p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
-		</a>
-		<br>
-		<br>
-		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
-			</div>
-			<b>Your app, enterprise-ready.</b>
-			<div>
-				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
-				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
-			<picture>
-				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
-				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
-				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
-			</picture>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://logto.io/?ref=sindre">
-			<div>
-				<picture>
-					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
-					<source width="200" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x">
-					<img width="200" src="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
-				</picture>
-			</div>
-			<b>The better identity infrastructure for developers</b>
-			<div>
-				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
-			<div>
-				<picture>
-					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
-					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
-					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
-				</picture>
-			</div>
-			<b>The development platform for building type-safe distributed systems</b>
-			<div>
-				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-	</p>
-	<hr>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
-<p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-<br>
-<p align="center">
-	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.
+![logo](https://github.com/Aakibgithuber/Aakibgithuber/blob/main/1705570243087.jpeg)
+
+<h1 align="center">Hi 👋, Mi Nombre es XXX</h1>
+<h3 align="center">Soy un Postulante a DevOps Junior</h3>
+<h3 align="center">A Continuación te muestro algunos proyectos que e desarrollado</h3>
+
+<img align="right" alt="let's deploy anything you want" width="400" src="https://camo.githubusercontent.com/eee94789e0d771d6cc6481a2b2f224d802e01956cbf69470ca182f343c16bf06/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakibgithuber&label=Profile%20views&color=0e75b6&style=flat" alt="aakibgithuber" /> </p>
+
+- 👨‍💻 All of my Social and Projects account--> [Link tree](https://linktr.ee/techwithaakib?utm_source=linktree_profile_share&ltsid=f9a340d3-bbe6-48f6-8ad6-f691572b599f)
+
+- 📝 I regularly write articles on--> [aakibkhan1.medium.com](https://aakibkhan1.medium.com/)
+
+- 📫 How to reach me--> **techwithaakib@gmail.com**
+
+<h3 align="left">Redes :</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aakib-khan-29b7aa252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakib khan" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">IT Tools:</h3>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
