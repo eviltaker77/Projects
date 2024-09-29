@@ -1,18 +1,12 @@
-![logo](https://github.com/Aakibgithuber/Aakibgithuber/blob/main/1705570243087.jpeg)
-
-<h1 align="center">Hi 👋, Mi Nombre es XXX</h1>
+<h1 align="center">Hola 👋, Mi Nombre es XXX</h1>
 <h3 align="center">Soy un Postulante a DevOps Junior</h3>
 <h3 align="center">A Continuación te muestro algunos proyectos que e desarrollado</h3>
 
-<img align="right" alt="let's deploy anything you want" width="400" src="https://camo.githubusercontent.com/eee94789e0d771d6cc6481a2b2f224d802e01956cbf69470ca182f343c16bf06/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakibgithuber&label=Profile%20views&color=0e75b6&style=flat" alt="aakibgithuber" /> </p>
+<h3 align="left">Proyectos :</h3>
+- Tienda Online
+<img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
 
-- 👨‍💻 All of my Social and Projects account--> [Link tree](https://linktr.ee/techwithaakib?utm_source=linktree_profile_share&ltsid=f9a340d3-bbe6-48f6-8ad6-f691572b599f)
-
-- 📝 I regularly write articles on--> [aakibkhan1.medium.com](https://aakibkhan1.medium.com/)
-
-- 📫 How to reach me--> **techwithaakib@gmail.com**
 
 <h3 align="left">Redes :</h3>
 <p align="left">
