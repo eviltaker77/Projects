@@ -2,15 +2,24 @@
 <h3 align="center">Soy un Postulante a DevOps Junior</h3>
 <h3 align="center">A Continuación te muestro algunos proyectos que e desarrollado</h3>
 
-
-<h3 align="left">Proyectos :</h3>
 - Tienda Online
 <img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
+https://aakibkhan1.medium.com/
 
+<br> <br/>
+
+- Banco
+<img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
+
+- Arquitectura en AWS
+<img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
+
+- PC World
+<img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
 
 <h3 align="left">Redes :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aakib-khan-29b7aa252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakib khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-zavala-3a9031156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakib khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">IT Tools:</h3>
