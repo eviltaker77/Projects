@@ -5,7 +5,7 @@
 
 <img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20Full.png" class="center" width=320 height=480>
 <br> <br/>
-<h3 align="center">A Continuación te muestro algunos proyectos que e desarrollado</h3>
+<h3 align="center">A Continuación muestro algunos proyectos que e desarrollado</h3>
 - Tienda Online
 <img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
 https://github.com/eviltaker77/TiendaOnline
