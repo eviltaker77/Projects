@@ -10,6 +10,7 @@ Tengo Actitud de Aprender y Colaborar en cualquier equipo de Trabajo como tambie
 
 <br> <br/>
 <h3 align="center">A Continuación muestro algunos proyectos que e desarrollado</h3>
+<br> <br/>
 - Tienda Online
 <img src="https://github.com/eviltaker77/TiendaOnline/blob/main/Repository/Microservicios.png" width=450 height=240>
 https://github.com/eviltaker77/TiendaOnline
