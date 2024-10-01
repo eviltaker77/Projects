@@ -3,7 +3,7 @@
 
 <h3 align="center">Estas son las Herramientas con las cuales trabajo</h3>
 
-<img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20Full.jpg"  class="center" width=1280 height=512>
+<img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20Full.png" class="center" width=600 height=750>
 <br> <br/>
 <h3 align="center">A Continuación te muestro algunos proyectos que e desarrollado</h3>
 - Tienda Online
