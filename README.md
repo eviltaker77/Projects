@@ -1,9 +1,13 @@
-<h1 align="center">Hola 👋, Mi Nombre es XXX</h1>
-<h3 align="center">Soy un Postulante a DevOps Junior</h3>
-
+<h1 align="center">Hola 👋, Mi Nombre es LZO</h1>
+<br> <br/>
+<p align="center">Soy un Aspirante a DevOps Junior, Me Gradue de la Carrera de Ingenieria en Informática y e estado realizando diversos cursos de DevOps, Cloud  & Microservicios.
+Cuento con 2 certificaciones en AWS las cuales son la de Fundamentos y SysOps.
+Tengo Actitud de Aprender y Colaborar en cualquier equipo de Trabajo como tambien disfruto de Automatizar Procesos e imlementar mejoras. Por ultimo cuento con una Maestria como BIM Manager en el ambito de la Arquitectura y Construcción enfocada en la Metodologia BIM.</p>
+<br> <br/>
 <h3 align="center">Estas son las Herramientas con las cuales trabajo</h3>
 
-<img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20Full.png" class="center" width=320 height=480>
+<img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20Full.png" class="center"> 
+
 <br> <br/>
 <h3 align="center">A Continuación muestro algunos proyectos que e desarrollado</h3>
 - Tienda Online
