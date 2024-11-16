@@ -6,7 +6,7 @@ Tengo Actitud de Aprender y Colaborar en cualquier equipo de Trabajo como tambie
 <br> <br/>
 <h3 align="center">Estas son las Herramientas con las cuales trabajo</h3>
 
-<img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20Full.png" class="center"> 
+<img src="https://github.com/eviltaker77/Projects/blob/main/IT%20Tools%20.png" class="center"> 
 
 <br> <br/>
 <h3 align="center">A Continuación muestro algunos proyectos que e desarrollado</h3>
